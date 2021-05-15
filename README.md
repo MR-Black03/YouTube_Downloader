@@ -4,8 +4,9 @@
 
 ### Template:
 --Download Video in Two Resolution:
-	1- Highest Resolution
-	2- Lowest Resolution
+1- Highest Resolution
+or
+2- Lowest Resolution
 
 ## Python version tested on:
 -Just Tested in python3.9
