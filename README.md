@@ -1,4 +1,4 @@
-# YoTube_Video_Downloader
+# YoTube_Downloader
 
 <h3 align="center">A tool for downloading video from YoTube based on python3.9...</h3>
 
