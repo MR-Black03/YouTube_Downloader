@@ -20,7 +20,7 @@ or
 
 ### Installation On Linux And WSL:
 ```bash
-$ git clone https://github.com/AmirhosseinaNazemi/Youtube_Downloader.git
+$ git clone https://github.com/AmirhosseinNazemi/Youtube_Downloader.git
 $ cd Youtube_Downloader
 $ sudo bash install Linux-Requirements.sh
 $ python3 -m pip install -r requirements.py
@@ -29,7 +29,7 @@ $ Python3 YouTube.py
 ### Installation On Windows
 
 ```base
-- $ Download https://github.com/AmirhosseinaNazemi/Youtube_Downloader.git
+- $ Download https://github.com/AmirhosseinNazemi/Youtube_Downloader.git
 - $ cd Youtube_Downloader
 - $ python -m pip install -r requirments.txt
 - $ python YouTube.py
